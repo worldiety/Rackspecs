@@ -1,0 +1,11 @@
+name: SetThemeCommand
+version: 0.0.1
+description: Sets a theme by executing the command wdy:theme:set
+author: Thomas Riedel
+compatibility:
+  minversion: ""
+  maxversion: ""
+source:
+  GIT: https://gitlab.worldiety.net/worldiety/customer/wdy/libriety/shopware/wdy-set-theme-command.git
+theme: ""
+
