@@ -6,6 +6,6 @@ compatibility:
   minversion: ""
   maxversion: ""
 source:
-  GIT: https://gitlab.worldiety.net/worldiety/customer/wdy/libriety/shopware/wdy-set-theme-command.git
+  GIT: https://github.com/worldiety/SetThemeCommand.git
 theme: ""
 
